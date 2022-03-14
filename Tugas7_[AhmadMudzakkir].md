@@ -36,7 +36,7 @@ Program Kalkulator sederhana ini dibuat untuk menampilkan hasil dari inputan 2 b
 
  # Contact
  Ahmad Mudzakkir - sawaggy2@gmail.com <br>
- Project Link - https://github.com/CheolAnn/Tugas7_AhmadMuzdakkir
+ Project Link - https://github.com/CheolAnn/Tugas7_AhmadMudzakkir
 
 
 
