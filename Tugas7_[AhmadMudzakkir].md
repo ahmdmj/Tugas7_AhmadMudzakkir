@@ -1,4 +1,4 @@
-# Program Kalkulator Implementasi UI
+# Program Kalkulator Implementasi User Interface
 ## Deskripsi 
 Program Kalkulator sederhana ini dibuat untuk menampilkan hasil dari inputan 2 bilangan sesuai pada studi kasus pada tugas 6 dengan menerapkan tampilan UI. Program ini dibuat dengan Code Editor Visual Studio Code dan menggunakan bahasa pemrograman seperti **HTML(Hypertext Markup Languange)**, **PHP(Hypertext Preprocessor)**, dan **CSS(Cascading Stylesheet)**. Untuk pembuatan file readme.md dapat menggunakan ekstensi yang tersedia pada Code Editor bernama file-tree-generator atau dengan menggunakan tools Git/Github. 
 
